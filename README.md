@@ -17,7 +17,7 @@ We're currently putting the code in order and it will be coming shortly.
 ## BibTeX 
 If you find NumbOD both interesting and helpful, please consider citing us in your research or publications:
 ```bibtex
-@inproceedings{zhou2023advclip,
+@inproceedings{zhou2025numbod,
   title={NumbOD: A Spatial-Frequency Fusion Attack Against Object Detectors},
   author={Zhou, Ziqi and Li, Bowen and Song, Yufei and Hu, Shengshan and Wan, Wei and Zhang, Leo Yu and Yao, Dezhong and Jin, Hai},
   booktitle={Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI'25)},
